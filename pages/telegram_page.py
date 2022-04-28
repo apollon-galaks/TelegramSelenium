@@ -9,7 +9,7 @@ import time
 
 class TelegramPage(BasePage):
 
-    def diana_dialogue(self):
+    def user_dialogue(self):
         #If you need to swtich your browser uncomment code below
         #new_b = self.browser.window_handles[0]
         #self.browser.switch_to.window(new_b)
