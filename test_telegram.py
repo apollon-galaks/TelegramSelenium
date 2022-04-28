@@ -10,4 +10,4 @@ class TestSendMessage():
         url = "https://web.telegram.org/"
         page = TelegramPage(browser,url)
         page.open()
-        page.diana_dialogue()
+        page.user_dialogue()
